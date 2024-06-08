@@ -28,8 +28,8 @@ This project is a React-based web application that displays the top N products f
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/bidur0123/top-n-products.git
-   cd top-n-products
+   git clone https://github.com/bidur0123/2100270120033.git
+   cd 2100270120033
 
 2. Install dependencies:
    npm install
@@ -39,7 +39,7 @@ This project is a React-based web application that displays the top N products f
 To start the development server, run:
 npm start
 
-This will run the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This will run the app in development mode. Open [http://localhost:5173](http://localhost:4000) to view it in the browser.
 
 The page will reload if you make edits. You will also see any lint errors in the console.
 
