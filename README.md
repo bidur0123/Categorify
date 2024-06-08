@@ -13,10 +13,10 @@ This project is a React-based web application that displays the top N products f
 ## Screenshots
 
 ### Frontend View
-![Frontend View](screenshots/Screenshot(341).png)
+![Frontend View](https://github.com/bidur0123/2100270120033/blob/main/screenshots/Screenshot%20(341).png)
 
 ### Backend View
-![Backend View](screenshots/Screenshot(342).png)
+![Backend View](https://github.com/bidur0123/2100270120033/blob/main/screenshots/Screenshot%20(342).png)
 
 ## Getting Started
 
