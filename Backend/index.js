@@ -16,9 +16,7 @@ app.set("trust proxy", 1);
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(tokenMiddleware);
-
-
-
+app.use(cors());
 
 
 // Import and use the routers
