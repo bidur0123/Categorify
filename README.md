@@ -28,8 +28,8 @@ This project is a React-based web application that displays the top N products f
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/bidur0123/2100270120033.git
-   cd 2100270120033
+   - git clone https://github.com/bidur0123/2100270120033.git
+   - cd 2100270120033
 
 2. Install dependencies:
    npm install
