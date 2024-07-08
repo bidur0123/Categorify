@@ -1,4 +1,4 @@
-# Afford Medical Technology
+# Categorify
 
 This project is a React-based web application that displays the top N products from various categories. Users can filter, sort, and paginate through products, viewing details such as name, company, category, price, rating, discount, and availability.
 
